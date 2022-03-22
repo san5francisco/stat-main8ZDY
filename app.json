@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "pinxunad",
+  "description": "pinxunad",
   "keywords": [
-    "vmess or vles"
+    "pinxunad"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/san5francisco/stat-main8ZDY",
+  "repository": "https://github.com/san5francisco/stat-main8ZDY",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
